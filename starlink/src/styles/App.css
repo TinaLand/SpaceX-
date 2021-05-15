@@ -1,11 +1,8 @@
-/* .App {
-  text-align: center;
+.App {
+  position: relative;
+  display: block;
   min-height: 100vh;
   overflow: hidden;
-  display: block;
-  position: relative;
-  padding-bottom: 5px;
-} */
-.App {
   text-align: center;
+  padding-bottom: 5px;
 }
