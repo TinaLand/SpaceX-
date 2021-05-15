@@ -1,4 +1,4 @@
-.sat-list-box {
+/* .sat-list-box {
     border: 2px solid #ccc;
     height: 380px;
     margin-top: 10px;
@@ -19,5 +19,29 @@
     align-items: center;
     justify-content: center;
     height: 335px;
+ }
+  */
+
+  .sat-list-box {
+   border: 2px solid #ccc;
+   height: 380px;
+   margin-top: 10px;
+   padding: 10px;
+ }
+ 
+ .btn-container {
+   text-align: center;
+ }
+ 
+ .sat-list {
+   height: 300px;
+   overflow: scroll;
+ }
+ 
+ .spin-box {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 335px;
  }
  

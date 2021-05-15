@@ -1,4 +1,4 @@
-.sat-setting {
+/* .sat-setting {
     width: 100%;
     background-color: #fbfbfb;
     border: 1px solid #d9d9d9;
@@ -18,4 +18,18 @@ text-align: center;
 .sat-setting .ant-form-item {
 margin-bottom: 12px;
 }
+   */
+
+   .sat-setting {
+    width: 100%;
+    background-color: #fbfbfb;
+    border: 1px solid #d9d9d9;
+    padding: 10px 15px 0px 15px;
+    text-align: left;
+  }
+  
+  .show-nearby {
+    display: flex;
+    justify-content: center;
+  }
   
